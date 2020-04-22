@@ -6,7 +6,7 @@ var settimmer = 0;
         $("b[id=show-time]").html(updateTime);
         if(updateTime == 0){
  $("div[id=ar1web-timer]").html("").html("تحميل الملف ");
-        window.location = ("https://rmdan515.github.io/a/hh.html");
+        window.location = ("https://rmdan515.github.io/d/hh.html");
         }
         }, 1000);
         });
